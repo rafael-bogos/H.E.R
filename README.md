@@ -1,4 +1,4 @@
-# Resumo:
+# H.E.R
 
 O projeto H.E.R (Hand Exoskeleton for Rehabilitation) representa uma solução inovadora no campo da reabilitação motora, inicialmente concebida por uma equipe de estudantes do ensino médio de uma equipe de robótica. A iniciativa foi impulsionada por pesquisas de campo que identificaram a carência de soluções criativas para problemas inteligentes enfrentados por alunos da rede estadual, particularmente em relação à falta de tratamento médico e acompanhamento personalizado de fisioterapeutas.
 
@@ -10,7 +10,7 @@ O H.E.R não é apenas uma prótese exoesquelética; é uma solução integrada 
 
 ![IMG20231207170204](https://github.com/rafael-bogos/H.E.R/assets/104691076/5c97241b-0796-4804-85fa-7d3a900294bd)
 
-# Introdução:
+## Introdução
 
 A genesis do nosso projeto remonta a uma iniciativa singular, impulsionada por jovens estudantes do ensino médio integrantes de uma equipe de robótica. Ao conduzirem pesquisas de campo, perceberam a lacuna existente nas soluções disponíveis para os desafios enfrentados por indivíduos com comprometimento da coordenação motora fina. Inspirados por essa necessidade urgente e pela vontade de criar impacto positivo, nossa equipe embarcou em uma jornada de inovação que culminou na concepção da prótese exoesquelética.
 
@@ -20,7 +20,7 @@ Os estudos evoluíram organicamente ao longo do tempo, e, após meticulosos proc
 
 Este relatório detalhará não apenas os aspectos técnicos do H.E.R, mas também a jornada de pesquisa, desenvolvimento e aplicação clínica que moldou essa inovação. Acreditamos que o H.E.R não é apenas uma prótese exoesquelética, mas uma expressão concreta do poder transformador que pode surgir quando a paixão pela tecnologia se une ao compromisso com a humanidade.
 
-# Contextualização:
+## Contextualização
 
 O protótipo inicial do H.E.R teve sua estreia oficial na MTR23 (Mostra de Tecnologia e Robótica de 2023), um evento marcante sediado pela Secretaria de Educação de Caieiras, na FATEC da cidade de Franco da Rocha. Esse momento representou não apenas a apresentação pública da nossa inovação, mas também um passo crucial na validação da funcionalidade e aplicabilidade do protótipo.
 
@@ -30,7 +30,7 @@ Durante a MTR23, destacamos não apenas os aspectos técnicos do H.E.R, mas tamb
 
 Essa etapa representou não apenas um marco em nossa jornada, mas também um compromisso com a transparência, aprendizado contínuo e a busca incessante por aprimoramentos que elevem a eficácia e a acessibilidade da prótese exoesquelética H.E.R. Estamos confiantes de que as experiências compartilhadas na MTR23 impulsionarão não apenas o desenvolvimento do H.E.R, mas também inspirarão inovações futuras no campo da reabilitação motora.
 
-# Desenvolvimento:
+## Desenvolvimento
 
 O H.E.R foi concebido com a missão primordial de conferir maior independência aos seus usuários, enfrentando desafios diretamente relacionados à autoestima e à carência de alunos da rede estadual. Esses desafios emergem da falta de acesso a tratamentos médicos adequados e, por vezes, da impossibilidade de receber um acompanhamento personalizado de um fisioterapeuta. Nessa perspectiva, o projeto H.E.R surge como uma solução criativa e inovadora, oferecendo uma abordagem que vai além das limitações tradicionais.
 
@@ -40,7 +40,7 @@ Além disso, a abordagem centrada no usuário é essencial para combater não ap
 
 O caráter inovador do H.E.R transcende a mera funcionalidade técnica; ele representa um catalisador para a mudança social ao proporcionar acesso à reabilitação de maneira autônoma, especialmente para aqueles que enfrentam barreiras geográficas, econômicas ou de recursos. O H.E.R não é apenas uma prótese exoesquelética; é uma ferramenta que visa redefinir a experiência da reabilitação motora, promovendo inclusão, dignidade e a melhoria efetiva da qualidade de vida.
 
-# Aplicações Clínicas:
+## Aplicações Clínicas
 
 O H.E.R, com sua avançada tecnologia e design inovador, oferece uma gama diversificada de aplicações clínicas, destacando-se como uma resposta eficaz para desafios enfrentados por pacientes em diversas condições. Sua versatilidade o torna uma solução abrangente e adaptável a diversas necessidades clínicas. Algumas das principais aplicações clínicas incluem:
 
@@ -58,7 +58,7 @@ O H.E.R, com sua avançada tecnologia e design inovador, oferece uma gama divers
 
 A capacidade do H.E.R de proporcionar uma reabilitação personalizada e eficaz destaca-se como uma contribuição significativa para a área da saúde, promovendo não apenas a recuperação física, mas também a melhoria da qualidade de vida dos pacientes. Sua aplicabilidade em diversas condições clínicas reforça o potencial transformador dessa inovação na promoção da independência e funcionalidade dos usuários.
 
-# Conclusão:
+## Conclusão
 
 O projeto H.E.R representa um notável avanço na interseção entre tecnologia, reabilitação motora e necessidades humanas. Iniciado a partir da percepção aguçada de estudantes do ensino médio envolvidos em uma equipe de robótica, o H.E.R não é apenas uma prótese exoesquelética, mas uma expressão tangível de empatia, inovação e compromisso com a melhoria da qualidade de vida.
 
