@@ -8,7 +8,7 @@ O H.E.R é projetado para proporcionar independência aos usuários, combatendo 
 
 O H.E.R não é apenas uma prótese exoesquelética; é uma solução integrada que visa redefinir a experiência da reabilitação motora, promovendo inclusão, dignidade e uma melhoria efetiva na qualidade de vida dos pacientes. Sua versatilidade, aliada à sua abordagem centrada no usuário, posiciona o H.E.R como um avanço significativo no panorama da reabilitação motora.
 
-![IMG20231207170204](https://github.com/rafael-bogos/H.E.R/assets/104691076/5c97241b-0796-4804-85fa-7d3a900294bd)
+![Imagem1](./assets/Imagem1.jpg)
 
 ## Introdução
 
