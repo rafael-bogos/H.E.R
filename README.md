@@ -77,7 +77,7 @@ Este projeto representa não apenas um feito tecnológico, mas um testemunho do 
 
 ![Imagem1](./assets/Imagem1.jpg)
 
-* Caso queira ter acesso ao cídigo-fonte [click aqui](script.c++)
+* Caso queira ter acesso ao código-fonte [click aqui](script.c++)
 
 <h2 style="text-align: center;">Finalização e Equipe</h2>
 
