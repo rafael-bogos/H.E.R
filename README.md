@@ -8,7 +8,9 @@ O *H.E.R* é projetado para proporcionar independência aos usuários, combatend
 
 O *H.E.R* não é apenas uma prótese exoesquelética; é uma solução integrada que visa redefinir a experiência da reabilitação motora, promovendo inclusão, dignidade e uma melhoria efetiva na qualidade de vida dos pacientes. Sua versatilidade, aliada à sua abordagem centrada no usuário, posiciona o *H.E.R* como um avanço significativo no panorama da reabilitação motora.
 
-![Imagem2](./assets/Imagem2.jpg)
+<div>
+   <img src="./assets/Imagem2.jpg" alt="Descrição da Imagem" width="60%" height="60%">
+</div>
 
 <h2 style="text-align: center;">Introdução</h2>
 
@@ -40,8 +42,9 @@ Além disso, a abordagem centrada no usuário é essencial para combater não ap
 
 O caráter inovador do *H.E.R* transcende a mera funcionalidade técnica; ele representa um catalisador para a mudança social ao proporcionar acesso à reabilitação de maneira autônoma, especialmente para aqueles que enfrentam barreiras geográficas, econômicas ou de recursos. O *H.E.R* não é apenas uma prótese exoesquelética; é uma ferramenta que visa redefinir a experiência da reabilitação motora, promovendo inclusão, dignidade e a melhoria efetiva da qualidade de vida.
 
-
-![Imagem3](./assets/Imagem3.jpg)
+<div>
+   <img src="./assets/Imagem3.jpg" alt="Descrição da Imagem" width="60%" height="60%">
+</div>
 
 <h2 style="text-align: center;">Aplicações Clínicas</h2>
 
@@ -75,7 +78,10 @@ O *H.E.R* não é apenas um projeto; é uma missão contínua de impactar positi
 
 Este projeto representa não apenas um feito tecnológico, mas um testemunho do poder que a tecnologia aliada à compaixão pode ter na vida das pessoas. O *H.E.R* não é apenas uma prótese; é uma esperança renovada, uma ferramenta que capacita, inspira e redefine a jornada da reabilitação motora.
 
-![Imagem1](./assets/Imagem1.jpg)
+
+<div>
+   <img src="./assets/Imagem1.jpg" alt="Descrição da Imagem" width="60%" height="60%">
+</div>
 
 * Caso queira ter acesso ao código-fonte [click aqui](script.c++)
 
